@@ -43,6 +43,3 @@ This project implements an end-to-end ETL pipeline using Azure Data Factory (ADF
 • Data conflicts were resolved by implementing proper merge logic and partition strategies.
 • Schema evolution was managed effectively using Delta Lake features.
 
-
-
-If you want, I can also make this look like a **proper GitHub README with badges, table of contents, and sections**. 🚀
